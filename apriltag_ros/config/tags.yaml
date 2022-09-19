@@ -21,7 +21,8 @@
 #   ]
 standalone_tags:
   [
-    {id: 0, size: 0.097},
+    # {id: 0, size: 0.097},
+    {id: 0, size: 0.200},
     {id: 2, size: 0.146},
     {id: 3, size: 0.049}
         
@@ -49,4 +50,13 @@ standalone_tags:
 #   ]
 tag_bundles:
   [
+    {
+       name: 'bundle_1',
+       layout:
+       [
+         {id: 0, size: 0.097, x: -0.024, y:  0.071, z: 0.0, qw: 1.0 ,qx: 0.0, qy: 0.0, qz: 0.0},
+         {id: 2, size: 0.146, x:  0.000, y: -0.047, z: 0.0, qw: 1.0 ,qx: 0.0, qy: 0.0, qz: 0.0},
+         {id: 3, size: 0.049, x:  0.049, y:  0.080, z: 0.0, qw: 1.0 ,qx: 0.0, qy: 0.0, qz: 0.0}
+       ]    
+    }
   ]
