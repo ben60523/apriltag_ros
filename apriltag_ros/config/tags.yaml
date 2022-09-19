@@ -21,7 +21,10 @@
 #   ]
 standalone_tags:
   [
-    {id: 42, size: SIZE: 0.2, name: office}
+    {id: 0, size: 0.097},
+    {id: 2, size: 0.146},
+    {id: 3, size: 0.049}
+        
   ]
 # ## Tag bundle definitions
 # ### Remarks
